@@ -19,4 +19,6 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning Django, Redis, Celery...
 
+👩🏻‍💻 Tech note: https://tech.goescat.site/
+
 📫 All about me: https://www.goescat.site/
