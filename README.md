@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on ```Sh**ee Taiwan```
+🔭 I’m currently working on Sh__ee Taiwan
+
 🌱 I’m currently learning Django, Redis, Celery...
-📫 How to reach me: https://www.goescat.site/
+
+📫 All about me: https://www.goescat.site/
