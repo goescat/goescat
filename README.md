@@ -23,4 +23,3 @@ Here are some ideas to get you started:
 
 📫 All about me: https://www.goescat.site/ (90's style. I' m sorry.)
 
-🏡 I' m taking a long break now to strike a balance between work and life. 
