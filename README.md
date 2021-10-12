@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+🔭 Some projects and icons: https://goescat.github.io/
+
 👩🏻‍💻 Tech note: https://tech.goescat.site/
 
-📫 All about me: https://www.goescat.site/ (90's style. I'm sorry.)
-
-🔭 Some projects and icons: https://goescat.github.io/
+📫 Trivial matter about me: https://www.goescat.site/ (90's style. I'm sorry.)
 
