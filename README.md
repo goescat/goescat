@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 
 📫 All about me: https://www.goescat.site/ (90's style. I'm sorry.)
 
+https://goescat.github.io/
+
