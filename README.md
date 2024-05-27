@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 🔭 Some projects and icons: https://goescat.github.io/
 
+🌱 Resume: https://goescat.github.io/one_page_resume/
+
 👩🏻‍💻 Tech note: https://tech.goescat.site/
 
 📫 Trivial matter about me: https://www.goescat.site/ (90's style. I'm sorry.)
