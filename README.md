@@ -21,5 +21,4 @@ Here are some ideas to get you started:
 
 👩🏻‍💻 Tech note: https://tech.goescat.site/
 
-📫 Trivial matter about me: https://www.goescat.site/ (90's style. I'm sorry.)
 
