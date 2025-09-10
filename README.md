@@ -21,4 +21,10 @@ Here are some ideas to get you started:
 
 👩🏻‍💻 Tech note: https://tech.goescat.site/
 
+⚡⚡⚡⚡⚡⚡⚡⚡
+
+好用測試工具快速連結 | [產測試身份證](https://goescat.github.io/test_id_card_gen/) | [AES 256 Decoder](https://goescat.github.io/aes-256-cbc-decoder/)
+
+
+
 
