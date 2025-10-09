@@ -23,15 +23,13 @@ Here are some ideas to get you started:
 
 ⚡⚡⚡⚡⚡⚡⚡⚡
 
-好用測試工具快速連結 | [產測試身份證](https://goescat.github.io/test_id_card_gen/) | [AES 256 Decoder](https://goescat.github.io/aes-256-cbc-decoder/)
+🧰 好用測試/開發工具 | 
+[Chome extension - XPath Helper](https://github.com/goescat/XPath-Helper/tree/main) |
+[產測試身份證](https://goescat.github.io/test_id_card_gen/) | [AES 256 Decoder](https://goescat.github.io/aes-256-cbc-decoder/)
 
-🪬🪬🪬🪬🪬🪬🪬🪬
+🪬 神秘的工具 | [托特塔羅抽牌](https://goescat.github.io/tarot/thoth_tarot.html) | [偉特塔羅抽牌](https://goescat.github.io/tarot/tarot.html) | [易經籌策占卦](https://goescat.github.io/iching_test.html) | [地占起盤](https://goescat.github.io/geomancy.html)
 
-神秘的工具 | [托特塔羅抽牌](https://goescat.github.io/tarot/thoth_tarot.html) | [偉特塔羅抽牌](https://goescat.github.io/tarot/tarot.html) | [易經籌策占卦](https://goescat.github.io/iching_test.html) | [地占起盤](https://goescat.github.io/geomancy.html)
-
-❓❓❓❓❓❓❓❓
-
-Meme 類型
+❓ Meme 類型 |
 [離職遺照產生器](https://goescat.github.io/rip-avatar-generator/)
 
 
