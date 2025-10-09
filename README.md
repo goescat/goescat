@@ -29,7 +29,10 @@ Here are some ideas to get you started:
 
 神秘的工具 | [托特塔羅抽牌](https://goescat.github.io/tarot/thoth_tarot.html) | [偉特塔羅抽牌](https://goescat.github.io/tarot/tarot.html) | [易經籌策占卦](https://goescat.github.io/iching_test.html) | [地占起盤](https://goescat.github.io/geomancy.html)
 
+❓❓❓❓❓❓❓❓
 
+Meme 類型
+[離職遺照產生器](https://goescat.github.io/rip-avatar-generator/)
 
 
 
