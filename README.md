@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 🧰 好用測試/開發工具 | 
 [Chome extension - XPath Helper](https://github.com/goescat/XPath-Helper/tree/main) |
-[產測試身份證](https://goescat.github.io/test_id_card_gen/) | [AES 256 Decoder](https://goescat.github.io/aes-256-cbc-decoder/)
+[產測試身份證](https://goescat.github.io/test_id_card_gen/) | [AES 256 Decoder](https://goescat.github.io/aes-256-cbc-decoder/) | [隨機產生測試字串](https://goescat.github.io/random-string-generator/)
 
 🪬 神秘的工具 | [托特塔羅抽牌](https://goescat.github.io/tarot/thoth_tarot.html) | [偉特塔羅抽牌](https://goescat.github.io/tarot/tarot.html) | [易經籌策占卦](https://goescat.github.io/i-ching-stalk-divination/) | [地占起盤](https://goescat.github.io/geomancy.html)
 
