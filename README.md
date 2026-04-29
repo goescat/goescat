@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 🪬 神秘的工具 | [托特塔羅抽牌](https://goescat.github.io/tarot/thoth_tarot.html) | [偉特塔羅抽牌](https://goescat.github.io/tarot/tarot.html) | [易經籌策占卦](https://goescat.github.io/i-ching-stalk-divination/) | [地占起盤](https://goescat.github.io/geomancy.html) | [像是放在桌上的塔羅抽牌](https://goescat.github.io/tarot-on-the-table/)
 
 ❓ Meme 類型 |
-[離職遺照產生器](https://goescat.github.io/rip-avatar-generator/)
+[離職遺照產生器](https://goescat.github.io/rip-avatar-generator/) | [離職集點小卡](https://goescat.github.io/quit-stamp-card/)
 
 
 
