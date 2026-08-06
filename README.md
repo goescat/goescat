@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 需要自己安裝一下再用
 
-> [Chome extension - XPath Helper](https://github.com/goescat/XPath-Helper/tree/main) | [AVD 路徑定位模擬器](https://github.com/goescat/avd-route-sim)
+> [Chome extension - XPath Helper](https://github.com/goescat/XPath-Helper/tree/main) | [AVD 路徑定位模擬器](https://github.com/goescat/avd-route-sim) | [QR Code 產生器](https://github.com/goescat/Quick-QR)
 
 網頁版直接用
 
