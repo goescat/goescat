@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 網頁版直接用
 
-> [產測試身份證](https://goescat.github.io/test_id_card_gen/) | [AES 256 Decoder](https://goescat.github.io/aes-256-cbc-decoder/) | [隨機產生測試字串](https://goescat.github.io/random-string-generator/) | [PDF 轉 TXT](https://goescat.github.io/pdf2txt/)
+> [極簡影片剪輯](https://goescat.github.io/SimpleCut/) | [產測試身份證](https://goescat.github.io/test_id_card_gen/) | [AES 256 Decoder](https://goescat.github.io/aes-256-cbc-decoder/) | [隨機產生測試字串](https://goescat.github.io/random-string-generator/) | [PDF 轉 TXT](https://goescat.github.io/pdf2txt/)
 
 有人能直接用有人不能
 
