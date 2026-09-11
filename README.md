@@ -25,17 +25,16 @@ Here are some ideas to get you started:
 
 🧰 好用測試/開發工具 | 
 
-需要自己安裝一下再用
+Chrome 擴充元件
 
-> [Chome extension - XPath Helper](https://github.com/goescat/XPath-Helper/tree/main) | [AVD 路徑定位模擬器](https://github.com/goescat/avd-route-sim) | [QR Code 產生器](https://github.com/goescat/Quick-QR)
+> [Chome extension - XPath Helper](https://github.com/goescat/XPath-Helper/tree/main) | [QR Code 產生器](https://github.com/goescat/Quick-QR)
 
-網頁版直接用
+網頁版小工具直接用
 
 > [極簡影片剪輯](https://goescat.github.io/SimpleCut/) | [產測試身份證](https://goescat.github.io/test_id_card_gen/) | [AES 256 Decoder](https://goescat.github.io/aes-256-cbc-decoder/) | [隨機產生測試字串](https://goescat.github.io/random-string-generator/) | [PDF 轉 TXT](https://goescat.github.io/pdf2txt/)
 
-有人能直接用有人不能
-
-> [Zoom 自動錄影](https://github.com/goescat/ZoomMeetingRecorder)
+稍微安裝一下再用
+> [AVD 路徑定位模擬器](https://github.com/goescat/avd-route-sim) 
 
 🪬 神秘的工具 | 
 > [托特塔羅抽牌](https://goescat.github.io/tarot/thoth_tarot.html) | [偉特塔羅抽牌](https://goescat.github.io/tarot/tarot.html) | [易經籌策占卦](https://goescat.github.io/i-ching-stalk-divination/) | [地占起盤](https://goescat.github.io/geomancy.html) | [像是放在桌上的塔羅抽牌](https://goescat.github.io/tarot-on-the-table/)
