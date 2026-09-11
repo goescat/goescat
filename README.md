@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 🌱 Resume: https://goescat.github.io/one_page_resume/
 
-👩🏻‍💻 Tech note: https://tech.goescat.site/
+👩🏻‍💻 Tech note: https://tech.goescat.site/ | https://test.goescat.site/
 
 ⚡⚡⚡⚡⚡⚡⚡⚡
 
