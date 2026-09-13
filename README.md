@@ -50,6 +50,9 @@ Chrome 擴充元件，可以開啟側邊面板，在把目前頁面或輸入的�
 ❓ Meme 類型
 > [離職遺照產生器](https://goescat.github.io/rip-avatar-generator/) | [離職集點小卡](https://goescat.github.io/quit-stamp-card/)
 
+💡本日金句 
+
+<img src="https://testing-quotes.goescat1024.workers.dev/" width="500">
 
 
 
