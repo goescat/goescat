@@ -9,7 +9,7 @@ and figuring out why they broke.
 
 ---
 
-Hi, 大家好這裡是 Yu-Chun, 可以叫我 Jean 和 goescat～
+Hi, 大家好這裡是 Yu-Chun, 可以叫我 Jean 或 goescat～
 
 8+ 年軟體測試經驗，專注於從零建立自動化測試，並以工程思維解決複雜的測試問題。
 
