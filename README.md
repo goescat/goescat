@@ -16,7 +16,7 @@ Hi, 大家好這裡是 Yu-Chun, 可以叫我 Jean 和 goescat～
 我喜歡從零開始打造東西，也喜歡刻意把東西弄壞，然後搞清楚它為什麼壞了。
 
 
-[🌱 Resume](https://goescat.github.io/one_page_resume/)  · 👩🏻‍💻 Tech note [雜物堆放倉](https://tech.goescat.site/) | [goescat in Testing](https://test.goescat.site/) [LinkedIn]
+[🌱 Resume](https://goescat.github.io/one_page_resume/)  · 👩🏻‍💻 Tech note [雜物堆放倉](https://tech.goescat.site/) | [goescat in Testing](https://test.goescat.site/)
 
 近期文章：
 * [什麼時候公司開始想找自動化測試？第一批自動化測試在幹嘛](https://test.goescat.site/2026/09/blog-post.html)
